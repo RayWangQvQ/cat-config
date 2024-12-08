@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN-SUFFIX,o1098464.ingest.sentry.io
+  - DOMAIN-SUFFIX,mousegesturesapi.com
+  - DOMAIN-SUFFIX,firebase.io
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN,browser.events.data.msn.com
+  - DOMAIN,browser.events.data.msn.cn
+  - DOMAIN,assets.msn.com
+  - DOMAIN,assets.msn.cn
+  - DOMAIN,www.msn.com
+  - DOMAIN,www.msn.cn
+  - DOMAIN,c.msn.com
+  - DOMAIN,c.msn.cn
+  - DOMAIN-SUFFIX,cn.bing.com
+  - PROCESS-NAME,com.sec.spp.push
+  - DOMAIN-SUFFIX,szbdyd.com # b站pcdn，江西节点技术服务有限公司
+  - DOMAIN-SUFFIX,mcdn.bilivideo.cn # b站mcdn，京东云

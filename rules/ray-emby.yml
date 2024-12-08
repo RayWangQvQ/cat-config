@@ -1,0 +1,7 @@
+
+# NAME: RayEmby
+payload:
+  # 黑丝
+  - DOMAIN-SUFFIX,i109.com
+  # 终点站
+  - DOMAIN-REGEX,pub[0-9]\.emby\.wtf

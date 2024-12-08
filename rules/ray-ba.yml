@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN-SUFFIX,bmwgroup.net
+  - DOMAIN-SUFFIX,bmw
+  - DOMAIN-SUFFIX,service-now.com
+  - DOMAIN-KEYWORD,batw
+  - DOMAIN-KEYWORD,batechworks
+  - DOMAIN-KEYWORD,orbit
+  - PROCESS-NAME,ms-teams.exe
