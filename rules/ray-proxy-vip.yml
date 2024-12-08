@@ -1,0 +1,9 @@
+# NAME: RayProxyVIP
+payload:
+  - PROCESS-NAME,oss.krtirtho.spotube
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,serv00.com
+  - DOMAIN-SUFFIX,alicenetworks.net

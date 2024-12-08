@@ -1,25 +1,18 @@
 # NAME: RayProxy
 payload:
-  - PROCESS-NAME,oss.krtirtho.spotube
-  - DOMAIN-SUFFIX,google.com
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,ideatek.com
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,linux.do
-  - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,hostmjj.com
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,kavin.rocks
   - DOMAIN-SUFFIX,supabase.co
-  - DOMAIN-SUFFIX,serv00.com
   - DOMAIN-SUFFIX,slicehosting.tech
   - DOMAIN-SUFFIX,ipapi.bitbrowser.net
-  - DOMAIN-SUFFIX,alicenetworks.net
   - DOMAIN-SUFFIX,csptrans.com
   - DOMAIN-SUFFIX,bagevm.com
   - DOMAIN-SUFFIX,lamhosting.com
