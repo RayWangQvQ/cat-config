@@ -2,6 +2,7 @@
 payload:
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,ideatek.com
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,nodeseek.com
