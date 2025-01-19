@@ -1,15 +1,9 @@
 # NAME: direct
 payload:
-  # 自建
-  #- DOMAIN-SUFFIX,ray.cloudns.org
-  #- DOMAIN-SUFFIX,kou.pp.ua
-  - DOMAIN-SUFFIX,885520.xyz
-  - DOMAIN-SUFFIX,rayray.eu.org
-  - DOMAIN-SUFFIX,866.free.hr
   # DOH
   - DOMAIN-SUFFIX,doh.pub
   - DOMAIN-SUFFIX,alidns.com
-  # 常用
+  # Frequently
   - DOMAIN-SUFFIX,cjy.me
   - DOMAIN-SUFFIX,52pojie.cn
   - DOMAIN-SUFFIX,right.com.cn
@@ -18,12 +12,12 @@ payload:
   - DOMAIN-SUFFIX,epicgames.com
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,smtp
-  # 常用国内影视
+  # CN movie
   - DOMAIN-SUFFIX,bdys.me
   - DOMAIN-SUFFIX,bdys03.com
   - DOMAIN-SUFFIX,bde4.icu
   - DOMAIN-SUFFIX,52bdys.com
-  # 国内下载
+  # CN download
   - DOMAIN-KEYWORD,aria2
   # azure
   - IP-CIDR,20.25.177.50,no-resolve 
