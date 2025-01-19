@@ -21,6 +21,3 @@ payload:
   - DOMAIN-KEYWORD,aria2
   # azure
   - IP-CIDR,20.25.177.50,no-resolve 
-  # 公司
-  - IP-CIDR,54.169.126.224/32,no-resolve
-  #- SRC-IP-CIDR,192.168.0.13/32,no-resolve
