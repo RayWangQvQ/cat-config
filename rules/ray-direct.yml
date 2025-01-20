@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,bdys03.com
   - DOMAIN-SUFFIX,bde4.icu
   - DOMAIN-SUFFIX,52bdys.com
+  # yxvm
+  - DOMAIN-SUFFIX,yxvm.com
   # CN download
   - DOMAIN-KEYWORD,aria2
   # azure
