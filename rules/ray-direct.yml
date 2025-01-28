@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,doh.pub
   - DOMAIN-SUFFIX,alidns.com
   # Frequently
-  - DOMAIN-SUFFIX,cjy.me
   - DOMAIN-SUFFIX,52pojie.cn
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,zuobiao.press
