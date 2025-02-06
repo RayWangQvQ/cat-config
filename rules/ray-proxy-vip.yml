@@ -18,5 +18,6 @@ payload:
   - DOMAIN-SUFFIX,register.us.kg
   # mjj
   - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,nodeloc.com
   # virtnet
   - DOMAIN-SUFFIX,virtnet.bond
