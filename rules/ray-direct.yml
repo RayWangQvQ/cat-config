@@ -1,5 +1,6 @@
 # NAME: direct
 payload:
+  - DOMAIN-SUFFIX,rayray.eu.org
   # DOH
   - DOMAIN-SUFFIX,doh.pub
   - DOMAIN-SUFFIX,alidns.com
