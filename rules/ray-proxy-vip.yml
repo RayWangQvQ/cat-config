@@ -19,5 +19,5 @@ payload:
   # mjj
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,nodeloc.com
-  # virtnet
-  - DOMAIN-SUFFIX,virtnet.bond
+  # GG
+  - DOMAIN-SUFFIX,giffgaff.com
