@@ -1,0 +1,4 @@
+payload:
+  # iplark
+  - DOMAIN-SUFFIX,iplark.com
+  - DOMAIN-SUFFIX,contabo.net
