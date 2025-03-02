@@ -13,5 +13,5 @@ payload:
   - DOMAIN,c.msn.cn
   - DOMAIN-SUFFIX,cn.bing.com
   - PROCESS-NAME,com.sec.spp.push
-  - DOMAIN-SUFFIX,szbdyd.com # b站pcdn，江西节点技术服务有限公司
-  - DOMAIN-SUFFIX,mcdn.bilivideo.cn # b站mcdn，京东云
+  # - DOMAIN-SUFFIX,szbdyd.com # b站pcdn，江西节点技术服务有限公司
+  # - DOMAIN-SUFFIX,mcdn.bilivideo.cn # b站mcdn，京东云
