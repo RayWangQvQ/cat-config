@@ -22,5 +22,8 @@ payload:
   # GG
   - DOMAIN-SUFFIX,giffgaff.com
   ## AI
+  - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,groq.com
+  - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,tavily.com
