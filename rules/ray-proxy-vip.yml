@@ -27,3 +27,6 @@ payload:
   - DOMAIN-SUFFIX,groq.com
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,tavily.com
+  ## Duolingo
+  - DOMAIN-SUFFIX,duolingo.com
+  - DOMAIN-SUFFIX,duolingo.cn
