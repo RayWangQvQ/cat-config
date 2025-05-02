@@ -1,22 +1,27 @@
 # NAME: RayProxy
 payload:
-  - DOMAIN-SUFFIX,ipleak.net
-  - DOMAIN-SUFFIX,speedtest.net
-  - DOMAIN-SUFFIX,dify.ai
-  - DOMAIN-SUFFIX,poe.com
-  - DOMAIN-SUFFIX,ideatek.com
+  # mjj
+  - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,linux.do
-  - DOMAIN-SUFFIX,bulianglin.com
-  - DOMAIN-SUFFIX,hostmjj.com
+  - DOMAIN-SUFFIX,nodeloc.com
+  # Duolingo
+  - DOMAIN-SUFFIX,duolingo.com
+  - DOMAIN-SUFFIX,duolingo.cn
+  # airport
   - DOMAIN-SUFFIX,metacubex.one
-  - DOMAIN-SUFFIX,kavin.rocks
-  - DOMAIN-SUFFIX,supabase.co
-  - DOMAIN-SUFFIX,slicehosting.tech
-  - DOMAIN-SUFFIX,ipapi.bitbrowser.net
+  - DOMAIN-SUFFIX,52pokemon.cc
+  # vps
   - DOMAIN-SUFFIX,csptrans.com
   - DOMAIN-SUFFIX,bagevm.com
   - DOMAIN-SUFFIX,lamhosting.com
+  - DOMAIN-SUFFIX,slicehosting.tech
+  # blog
+  - DOMAIN-SUFFIX,bulianglin.com
+  # other
+  - DOMAIN-SUFFIX,ideatek.com
+  - DOMAIN-SUFFIX,kavin.rocks
+  - DOMAIN-SUFFIX,supabase.co
+  - DOMAIN-SUFFIX,ipapi.bitbrowser.net
   - DOMAIN-SUFFIX,scriptcat.org
   - DOMAIN-SUFFIX,figma.com
-  - DOMAIN-SUFFIX,52pokemon.cc
