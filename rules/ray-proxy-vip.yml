@@ -16,7 +16,7 @@ payload:
   - DOMAIN-SUFFIX,register.us.kg
   # GG
   - DOMAIN-SUFFIX,giffgaff.com
-  ## AI
+  # AI
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,groq.com
