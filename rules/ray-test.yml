@@ -2,3 +2,6 @@ payload:
   # iplark
   - DOMAIN-SUFFIX,iplark.com
   - DOMAIN-SUFFIX,contabo.net
+  # ip
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,speedtest.net
