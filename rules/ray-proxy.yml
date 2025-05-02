@@ -11,11 +11,6 @@ payload:
   # airport
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,52pokemon.cc
-  # vps
-  - DOMAIN-SUFFIX,csptrans.com
-  - DOMAIN-SUFFIX,bagevm.com
-  - DOMAIN-SUFFIX,lamhosting.com
-  - DOMAIN-SUFFIX,slicehosting.tech
   # blog
   - DOMAIN-SUFFIX,bulianglin.com
   # other
