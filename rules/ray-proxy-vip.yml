@@ -26,3 +26,8 @@ payload:
   - DOMAIN-SUFFIX,poe.com
   # VPS
   - DOMAIN-SUFFIX,vtexs.com
+  - DOMAIN-SUFFIX,legendvps.com
+  - DOMAIN-SUFFIX,csptrans.com
+  - DOMAIN-SUFFIX,bagevm.com
+  - DOMAIN-SUFFIX,lamhosting.com
+  - DOMAIN-SUFFIX,slicehosting.tech
