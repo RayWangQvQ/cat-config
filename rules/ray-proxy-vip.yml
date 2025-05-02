@@ -9,16 +9,11 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   # MCP
   - DOMAIN-SUFFIX,cjy.me
-  # Serv00
-  - DOMAIN-SUFFIX,serv00.com
   # Alice
   - DOMAIN-SUFFIX,alicenetworks.net
   - DOMAIN-SUFFIX,alice.ws
   # US.KG
   - DOMAIN-SUFFIX,register.us.kg
-  # mjj
-  - DOMAIN-SUFFIX,nodeseek.com
-  - DOMAIN-SUFFIX,nodeloc.com
   # GG
   - DOMAIN-SUFFIX,giffgaff.com
   ## AI
@@ -28,6 +23,3 @@ payload:
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,tavily.com
   - DOMAIN-SUFFIX,genspark.ai
-  ## Duolingo
-  - DOMAIN-SUFFIX,duolingo.com
-  - DOMAIN-SUFFIX,duolingo.cn
