@@ -5,3 +5,5 @@ payload:
   - DOMAIN-SUFFIX,i109.com
   # 终点站
   - DOMAIN-REGEX,pub[0-9]\.emby\.wtf
+  # 猫眼
+  - DOMAIN-SUFFIX,frre.me
