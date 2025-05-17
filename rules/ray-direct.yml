@@ -22,6 +22,6 @@ payload:
   # CN download
   - DOMAIN-KEYWORD,aria2
   # azure
-  - IP-CIDR,20.25.177.50,no-resolve 
+  - IP-CIDR,20.25.177.50/32,no-resolve 
   # douyin
-  - IP-CIDR,163.181.35.185,no-resolve 
+  - IP-CIDR,163.181.35.185/32,no-resolve 
