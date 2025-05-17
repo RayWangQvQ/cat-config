@@ -7,6 +7,9 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   # Bing
   - DOMAIN-SUFFIX,bing.com
+  # mjj
+  - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,hostloc.com
   # MCP
   - DOMAIN-SUFFIX,cjy.me
   # Alice
