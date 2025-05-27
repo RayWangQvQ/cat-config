@@ -1,6 +1,7 @@
 # NAME: RayProxy
 payload:
   # mjj
+  - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,nodeloc.com
   - DOMAIN-SUFFIX,nodeloc.cc
