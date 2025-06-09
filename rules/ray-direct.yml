@@ -25,3 +25,5 @@ payload:
   - IP-CIDR,20.25.177.50/32,no-resolve 
   # douyin
   - IP-CIDR,163.181.35.185/32,no-resolve 
+  - IP-CIDR,61.241.207.200/32,no-resolve
+  - DOMAIN-SUFFIX,douyinve.starrydyn.com
