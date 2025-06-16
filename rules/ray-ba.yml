@@ -1,10 +1,10 @@
 payload:
   - DOMAIN-SUFFIX,bmwgroup.net
+  - DOMAIN-SUFFIX,bmwgroup.cn
   - DOMAIN-SUFFIX,bmw
   - DOMAIN-SUFFIX,service-now.com
   - DOMAIN-KEYWORD,batw
   - DOMAIN-KEYWORD,batechworks
   - DOMAIN-KEYWORD,orbit
-  - PROCESS-NAME,ms-teams.exe
   - IP-CIDR,54.169.126.224/32,no-resolve
   #- SRC-IP-CIDR,192.168.0.13/32,no-resolve
