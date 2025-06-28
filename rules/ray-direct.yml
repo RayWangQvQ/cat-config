@@ -27,3 +27,5 @@ payload:
   - IP-CIDR,163.181.35.185/32,no-resolve 
   - IP-CIDR,61.241.207.200/32,no-resolve
   - DOMAIN-SUFFIX,douyinve.starrydyn.com
+  ## byteDance CDN
+  - DOMAIN-SUFFIX,vegslb.com
