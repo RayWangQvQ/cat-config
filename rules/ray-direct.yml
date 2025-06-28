@@ -29,3 +29,4 @@ payload:
   - DOMAIN-SUFFIX,douyinve.starrydyn.com
   ## byteDance CDN
   - DOMAIN-SUFFIX,vegslb.com
+  - DOMAIN-SUFFIX,douyin.starrydyn.com
