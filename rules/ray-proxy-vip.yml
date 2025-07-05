@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,tavily.com
   - DOMAIN-SUFFIX,genspark.ai
   - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,ai.google.dev
   # VPS
   - DOMAIN-SUFFIX,vtexs.com
   - DOMAIN-SUFFIX,legendvps.com
