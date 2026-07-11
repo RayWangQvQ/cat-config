@@ -1,9 +1,38 @@
 # NAME: RayProxyVIP
 payload:
+  # Spotube
   - PROCESS-NAME,oss.krtirtho.spotube
+  # Google
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,googleapis.com
+  # Bing
   - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,poe.com
-  - DOMAIN-SUFFIX,serv00.com
+  # mjj
+  - DOMAIN-SUFFIX,hostloc.com
+  # MCP
+  - DOMAIN-SUFFIX,cjy.me
+  # Alice
   - DOMAIN-SUFFIX,alicenetworks.net
+  - DOMAIN-SUFFIX,alice.ws
+  # US.KG
+  - DOMAIN-SUFFIX,register.us.kg
+  # GG
+  - DOMAIN-SUFFIX,giffgaff.com
+  # AI
+  - DOMAIN-SUFFIX,dify.ai
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,groq.com
+  - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,tavily.com
+  - DOMAIN-SUFFIX,genspark.ai
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,ai.google.dev
+  # VPS
+  - DOMAIN-SUFFIX,vtexs.com
+  - DOMAIN-SUFFIX,legendvps.com
+  - DOMAIN-SUFFIX,csptrans.com
+  - DOMAIN-SUFFIX,bagevm.com
+  - DOMAIN-SUFFIX,lamhosting.com
+  - DOMAIN-SUFFIX,slicehosting.tech
+  - DOMAIN-SUFFIX,vtexs.com
+  - DOMAIN-SUFFIX,zmto.com

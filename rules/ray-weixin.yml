@@ -2,6 +2,8 @@ payload:
   - PROCESS-NAME,com.tencent.mm
   - PROCESS-NAME,WeChat.exe
 
+  - DOMAIN-SUFFIX,wx2.qq.com
+
   - IP-CIDR,101.32.104.4/32,no-resolve
   - IP-CIDR,101.32.104.41/32,no-resolve
   - IP-CIDR,101.32.104.56/32,no-resolve
@@ -25,8 +27,15 @@ payload:
 
   - IP-CIDR,119.147.19.0/24,no-resolve
   
-  
   - IP-CIDR,157.148.61.213/24,no-resolve
   - IP-CIDR,157.255.209.219/24,no-resolve
   - IP-CIDR,120.232.51.154/24,no-resolve
   - IP-CIDR,182.50.15.211/24,no-resolve
+
+  - IP-CIDR,222.186.181.0/24,no-resolve
+
+  - IP-CIDR,114.230.137.0/24,no-resolve
+
+  - IP-CIDR,58.220.8.0/24,no-resolve
+
+  - IP-CIDR,180.101.152.156/24,no-resolve
