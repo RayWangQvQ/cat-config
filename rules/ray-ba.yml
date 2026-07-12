@@ -10,5 +10,5 @@ payload:
   - DOMAIN-SUFFIX,btccndly.chinaeast2.cloudapp.chinacloudapi.cn
   - DOMAIN-SUFFIX,btccndev.chinaeast2.cloudapp.chinacloudapi.cn
   - DOMAIN-SUFFIX,btccnint.chinaeast2.cloudapp.chinacloudapi.cn
-  - IP-CIDR,54.169.126.224/32,no-resolve
-  #- SRC-IP-CIDR,192.168.0.13/32,no-resolve
+  - IP-CIDR,54.169.126.224/32
+  #- SRC-IP-CIDR,192.168.0.13/32
