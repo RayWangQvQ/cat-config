@@ -7,13 +7,12 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   # Bing
   - DOMAIN-SUFFIX,bing.com
-  # mjj
-  - DOMAIN-SUFFIX,hostloc.com
   # MCP
   - DOMAIN-SUFFIX,cjy.me
   # Alice
   - DOMAIN-SUFFIX,alicenetworks.net
   - DOMAIN-SUFFIX,alice.ws
+  - DOMAIN-SUFFIX,yuusei.io
   # US.KG
   - DOMAIN-SUFFIX,register.us.kg
   # GG

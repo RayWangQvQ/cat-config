@@ -3,8 +3,7 @@ payload:
   # mjj
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,linux.do
-  - DOMAIN-SUFFIX,nodeloc.com
-  - DOMAIN-SUFFIX,nodeloc.cc
+  - DOMAIN-SUFFIX,hostloc.com
   # Duolingo
   - DOMAIN-SUFFIX,duolingo.com
   - DOMAIN-SUFFIX,duolingo.cn
