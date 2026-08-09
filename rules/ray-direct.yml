@@ -30,3 +30,5 @@ payload:
   ## byteDance CDN
   - DOMAIN-SUFFIX,vegslb.com
   - DOMAIN-SUFFIX,douyin.starrydyn.com
+  # Lenovo
+  - DOMAIN-SUFFIX,lenovo.com
