@@ -35,4 +35,4 @@ payload:
   # Lenovo
   - DOMAIN-SUFFIX,lenovo.com
   # Xiaomi Camera
-  - IP-CIDR,120.92.164.118
+  - IP-CIDR,120.92.164.118/32
