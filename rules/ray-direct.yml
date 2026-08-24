@@ -1,5 +1,7 @@
 # NAME: direct
 payload:
+  # Clash Board
+  - DOMAIN-SUFFIX,board.zash.run.place
   - DOMAIN-SUFFIX,rayray.eu.org
   # DOH
   - DOMAIN-SUFFIX,doh.pub
@@ -32,3 +34,5 @@ payload:
   - DOMAIN-SUFFIX,douyin.starrydyn.com
   # Lenovo
   - DOMAIN-SUFFIX,lenovo.com
+  # Xiaomi Camera
+  - IP-CIDR,120.92.164.118
