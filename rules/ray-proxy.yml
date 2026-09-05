@@ -4,6 +4,10 @@ payload:
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,hostloc.com
+  # clash board
+  - DOMAIN-SUFFIX,board.zash.run.place
+  # z-library
+  - DOMAIN-KEYWORD,z-library
   # Duolingo
   - DOMAIN-SUFFIX,duolingo.com
   - DOMAIN-SUFFIX,duolingo.cn
