@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,open.e.kuaishou.com
   - DOMAIN-SUFFIX,nadvideo2.baidu.com
   - DOMAIN-SUFFIX,sdk.beizi.biz
+  - DOMAIN-SUFFIX,marketing.aiacgn.com
   - PROCESS-NAME,com.sec.spp.push
   # - DOMAIN-SUFFIX,szbdyd.com # b站pcdn，江西节点技术服务有限公司
   # - DOMAIN-SUFFIX,mcdn.bilivideo.cn # b站mcdn，京东云
